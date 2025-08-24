@@ -1,0 +1,15 @@
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.exe
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.deps.json
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.runtimeconfig.json
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.dll
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.pdb
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfoInputs.cache
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfo.cs
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.csproj.CoreCompileInputs.cache
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.sourcelink.json
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.dll
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\refint\VacunacionCovid.dll
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.pdb
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.genruntimeconfig.cache
+C:\Users\ebaqu\OneDrive\Documentos\Semanaa10\VacunacionCovid\obj\Debug\net9.0\ref\VacunacionCovid.dll
